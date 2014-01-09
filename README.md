@@ -18,3 +18,7 @@ Shapefiles sobre a hidrografia da Região Metropolitana de São Paulo. Eles já 
 Mapa da [Fundação Centro Tecnológico de Hidráulica](http://www.fcth.br) e Prefeitura de São Paulo:
 
 * [Mapa Hidrográfico](https://dl.dropboxusercontent.com/u/3291375/rioseruas/MSP_Hidrografico.pdf)
+
+### Contato
+
+Crie um ["issue"](https://github.com/codigo-urbano/aguasdesaopaulo/issues/new) para tirar dúvidas, reportar problemas e enviar sugestões sobre os dados.
